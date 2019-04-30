@@ -9,7 +9,11 @@ WindowLogger is a simple python3 script to log foreground windows in Microsoft W
     
     > pip install pywin32
 3) Run the script using:
-   > python ConsoleWindowLogger.py
+   > python WindowLogger.py
    
+# FAQ
+1) Does WindowLogger supports operating systems other than Microsoft Windows?
+Ans1) No, WindowLogger does not support any operating systems other that Microsoft Windows.
+
 ## Disclaimer
 Use this script at your own risk. I do NOT take responsibility of any damages you/someone faced using this script including system/machine and user privacy damages.
