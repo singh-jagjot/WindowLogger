@@ -12,4 +12,4 @@ WindowLogger is a simple python3 script to log foreground windows in Microsoft W
    > python ConsoleWindowLogger.py
    
 ## Disclaimer
-Use this script at your own risk. I do NOT take responsibility of any damages you faced using this script including system/machine and user privacy damages.
+Use this script at your own risk. I do NOT take responsibility of any damages you/someone faced using this script including system/machine and user privacy damages.
