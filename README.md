@@ -6,6 +6,7 @@ WindowLogger is a simple python3 script to log foreground windows in Microsoft W
 2) Use python pip to install the following packages:
     psutil, pywin32 or use following commands:
     > pip install psutil
+    
     > pip install pywin32
 3) Run the script using:
    > python ConsoleWindowLogger.py
