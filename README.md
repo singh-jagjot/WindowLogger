@@ -16,5 +16,9 @@ WindowLogger is a simple python3 script to log foreground windows in Microsoft W
 
     Ans: No, WindowLogger does not support any operating systems other that Microsoft Windows.
 
+2) Not working/Unexpected results?
+
+    Ans: Try running the script as an admin.
+
 ## Disclaimer
 Use this script at your own risk. I do NOT take responsibility of any damages you/someone faced using this script including system/machine and user privacy damages.
