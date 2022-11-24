@@ -101,8 +101,7 @@ if __name__ == '__main__' and system() in ['Windows', 'win32', 'win64']:
         print(txt + " \"readme.txt\" created.")
         file = open("readme.txt", 'w')
         file.write(
-             txt + "\n" +
-            "\t\t\t\t-Created By: Jagjot Singh\n\t\t\t\t-Github ID: https://github.com/JJSinghHere"
+             txt + "\nGithub: https://github.com/singh-jagjot/WindowLogger"
         )
         file.close()
     else:
